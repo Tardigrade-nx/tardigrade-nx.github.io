@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/post/</link>
+    <description>Recent content in Posts on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Sep 2021 19:13:51 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Android] The Pawn</title>
+      <link>https://tardigrade-nx.github.io/2021/thepawn/</link>
+      <pubDate>Sat, 25 Sep 2021 19:13:51 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2021/thepawn/</guid>
+      <description>[Android] The Pawn The Pawn is an original puzzle game, inspired by chess. You don&amp;rsquo;t need to know the rules of Chess to play, as it is quite different.
+ Tap to move, one square at a time. Move onto another friend piece to change into it. Change into the king to win. Move onto an enemy piece to knock it out. Each piece has a different move set, indicated by arrows.</description>
+    </item>
+    
+  </channel>
+</rss>
