@@ -5,17 +5,53 @@
     <description>Recent content in Tags on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2021 19:13:51 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Android</title>
+      <title>android</title>
       <link>https://tardigrade-nx.github.io/tags/android/</link>
-      <pubDate>Sat, 25 Sep 2021 19:13:51 +0200</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://tardigrade-nx.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://tardigrade-nx.github.io/tags/game/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://tardigrade-nx.github.io/tags/linux/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RG351</title>
+      <link>https://tardigrade-nx.github.io/tags/rg351/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/tags/rg351/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tool</title>
+      <link>https://tardigrade-nx.github.io/tags/tool/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/tags/tool/</guid>
       <description></description>
     </item>
     
