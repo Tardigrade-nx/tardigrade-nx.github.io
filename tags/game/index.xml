@@ -16,8 +16,19 @@
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://tardigrade-nx.github.io/2021/thepawn/</guid>
-      <description>[Android] The Pawn The Pawn is an original puzzle game, inspired by chess. You don&amp;rsquo;t need to know the rules of Chess to play, as it is quite different.
+      <description>The Pawn The Pawn is an original puzzle game for Android, inspired by chess. You don&amp;rsquo;t need to know the rules of Chess to play, as it is quite different.
  Tap to move, one square at a time. Move onto another friend piece to change into it. Change into the king to win. Move onto an enemy piece to knock it out. Each piece has a different move set, indicated by arrows.</description>
+    </item>
+    
+    <item>
+      <title>[Nintendo Switch] SlitherlinkNX</title>
+      <link>https://tardigrade-nx.github.io/2018/slitherlinknx/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2018/slitherlinknx/</guid>
+      <description>SlitherlinkNX Slitherlink is a logic puzzle game created in 1989 by Japanese publisher Nikoli, famous for creating Sudoku, among many other puzzle games. See (https://en.wikipedia.org/wiki/Slitherlink) for more info.
+I discovered the game a few years ago on the Nintendo DS with &amp;lsquo;Puzzle Series Vol. 5: Slitherlink&amp;rsquo;, which was never released outside of Japan. It&amp;rsquo;s such a good game I became addicted to it, just like with Picross and Nurikabe.
+This is my version of the game for the Nintendo Switch.</description>
     </item>
     
   </channel>

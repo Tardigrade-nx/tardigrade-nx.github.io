@@ -16,8 +16,18 @@
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://tardigrade-nx.github.io/2021/thepawn/</guid>
-      <description>[Android] The Pawn The Pawn is an original puzzle game, inspired by chess. You don&amp;rsquo;t need to know the rules of Chess to play, as it is quite different.
+      <description>The Pawn The Pawn is an original puzzle game for Android, inspired by chess. You don&amp;rsquo;t need to know the rules of Chess to play, as it is quite different.
  Tap to move, one square at a time. Move onto another friend piece to change into it. Change into the king to win. Move onto an enemy piece to knock it out. Each piece has a different move set, indicated by arrows.</description>
+    </item>
+    
+    <item>
+      <title>[Android] ComptageRDM</title>
+      <link>https://tardigrade-nx.github.io/2020/comptagerdm/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2020/comptagerdm/</guid>
+      <description>ComptageRDM ComptageRDM est une application Android dans le domaine des transports en commun. Il s&amp;rsquo;agit d&amp;rsquo;un outil de comptage manuel, qui peut être utilisé embarqué à bord d&amp;rsquo;un bus, ou fixe à un poteau.
+Il prend en entrée un fichier RDM exporté du logiciel HASTUS via le module Rider, et produit en sortie le même fichier avec les heures d&amp;rsquo;arrivée, de départ, et le nombre de montées / descentes renseignés.</description>
     </item>
     
   </channel>
