@@ -27,8 +27,8 @@
       
       <guid>https://tardigrade-nx.github.io/2019/tatanga/</guid>
       <description>Tatanga A prototype for a 2D platformer based on Newton&amp;rsquo;s law of universal gravitation.
-Github page : (https://github.com/Tardigrade-nx/Tatanga)
-Vidéo : (https://youtu.be/BflQidQx_wo)</description>
+Github page : https://github.com/Tardigrade-nx/Tatanga
+Vidéo : https://youtu.be/BflQidQx_wo</description>
     </item>
     
     <item>
@@ -40,6 +40,34 @@ Vidéo : (https://youtu.be/BflQidQx_wo)</description>
       <description>SlitherlinkNX Slitherlink is a logic puzzle game created in 1989 by Japanese publisher Nikoli, famous for creating Sudoku, among many other puzzle games. See (https://en.wikipedia.org/wiki/Slitherlink) for more info.
 I discovered the game a few years ago on the Nintendo DS with &amp;lsquo;Puzzle Series Vol. 5: Slitherlink&amp;rsquo;, which was never released outside of Japan. It&amp;rsquo;s such a good game I became addicted to it, just like with Picross and Nurikabe.
 This is my version of the game for the Nintendo Switch.</description>
+    </item>
+    
+    <item>
+      <title>[PSP] AntiTetris</title>
+      <link>https://tardigrade-nx.github.io/2008/antitetris/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2008/antitetris/</guid>
+      <description>AntiTetris A homebrew game for PSP.
+AntiTetris is a visual reproduction of the Game Boy Tetris, but based on a physics engine. Lines are not implemented. The aim is to stack up as many tetrominoes as possible before they reach the top of the screen.
+Download: AntiTetris.zip
+Source: AntiTetris_src.zip
+Vidéo: http://www.dailymotion.com/video/x61qf5_antitetris-psp-homebrew_videogames
+Credits:
+ Development: Tardigrade Graphics library: JGE++ Physics engine: Chipmunk  </description>
+    </item>
+    
+    <item>
+      <title>[Nintendo DS] Everlasting Love</title>
+      <link>https://tardigrade-nx.github.io/2007/everlastinglove/</link>
+      <pubDate>Sat, 24 Mar 2007 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2007/everlastinglove/</guid>
+      <description>Everlasting Love Homebrew game for the Nintendo DS.
+Everlasting Love is a combination of a 2D platformer and a rhythm game, in which you have to adjust your jumps using the music. The song is Everlasting Love from the original soundtrack of We Love Katamari.
+Download: Everlasting.zip / Everlasting_sc.zip / Everlasting_gba.zip
+How to play :
+ The monkey can move right and left during jumps only. No walking. As soon as he touches a wall, he holds onto it until the next jump.</description>
     </item>
     
   </channel>

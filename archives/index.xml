@@ -55,5 +55,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>2011</title>
+      <link>https://tardigrade-nx.github.io/archives/2011/</link>
+      <pubDate>Sat, 05 Feb 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/archives/2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008</title>
+      <link>https://tardigrade-nx.github.io/archives/2008/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/archives/2008/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

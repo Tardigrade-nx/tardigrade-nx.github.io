@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nintendo-ds on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/tags/nintendo-ds/</link>
+    <description>Recent content in nintendo-ds on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Mar 2007 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/tags/nintendo-ds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Nintendo DS] Everlasting Love</title>
+      <link>https://tardigrade-nx.github.io/2007/everlastinglove/</link>
+      <pubDate>Sat, 24 Mar 2007 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2007/everlastinglove/</guid>
+      <description>Everlasting Love Homebrew game for the Nintendo DS.
+Everlasting Love is a combination of a 2D platformer and a rhythm game, in which you have to adjust your jumps using the music. The song is Everlasting Love from the original soundtrack of We Love Katamari.
+Download: Everlasting.zip / Everlasting_sc.zip / Everlasting_gba.zip
+How to play :
+ The monkey can move right and left during jumps only. No walking. As soon as he touches a wall, he holds onto it until the next jump.</description>
+    </item>
+    
+  </channel>
+</rss>
