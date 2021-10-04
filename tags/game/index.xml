@@ -58,12 +58,25 @@ Credits:
     </item>
     
     <item>
+      <title>[PSP] Game&amp;Watch Fantasies</title>
+      <link>https://tardigrade-nx.github.io/2007/gamewatchfantasies/</link>
+      <pubDate>Sun, 18 Nov 2007 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2007/gamewatchfantasies/</guid>
+      <description>Game&amp;amp;Watch Fantasies A homebrew game for PSP.
+Download: GWF.zip / GWFv2.zip
+Source: GWFv2_src.zip
+Game&amp;amp;Watch Fantasies is a puzzle/platform game for the PSP, inspired by the Game&amp;amp;Watch LCD games.
+ Rule #1: Just like in a Game&amp;amp;Watch, the hero moves discontinuously. Therefore, he can &amp;ldquo;teleport&amp;rdquo; through thin obstacles by simply walking or jumping. However, gravity doesn&amp;rsquo;t allow him to do so: it is impossible to go through an obstacle when falling.   Rule #2: If the obstacle is too large, the hero will move until he touches it.</description>
+    </item>
+    
+    <item>
       <title>[Nintendo DS] Everlasting Love</title>
       <link>https://tardigrade-nx.github.io/2007/everlastinglove/</link>
       <pubDate>Sat, 24 Mar 2007 00:00:00 +0200</pubDate>
       
       <guid>https://tardigrade-nx.github.io/2007/everlastinglove/</guid>
-      <description>Everlasting Love Homebrew game for the Nintendo DS.
+      <description>Everlasting Love A homebrew game for the Nintendo DS.
 Everlasting Love is a combination of a 2D platformer and a rhythm game, in which you have to adjust your jumps using the music. The song is Everlasting Love from the original soundtrack of We Love Katamari.
 Download: Everlasting.zip / Everlasting_sc.zip / Everlasting_gba.zip
 How to play :
