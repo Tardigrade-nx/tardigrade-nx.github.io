@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/archives/2019/</link>
+    <description>Recent content in 2019 on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/archives/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Nintendo Switch] Tatanga</title>
+      <link>https://tardigrade-nx.github.io/2019/tatanga/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2019/tatanga/</guid>
+      <description>Tatanga A prototype for a 2D platformer based on Newton&amp;rsquo;s law of universal gravitation.
+Github page : (https://github.com/Tardigrade-nx/Tatanga)
+Vidéo : (https://youtu.be/BflQidQx_wo)</description>
+    </item>
+    
+  </channel>
+</rss>

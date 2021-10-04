@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://tardigrade-nx.github.io/tags/linux/</loc>
-    <lastmod>2021-07-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tardigrade-nx.github.io/tags/rg351/</loc>
     <lastmod>2021-07-03T00:00:00+02:00</lastmod>
   </url>
@@ -63,8 +58,28 @@
   </url>
   
   <url>
+    <loc>https://tardigrade-nx.github.io/archives/2020/</loc>
+    <lastmod>2020-12-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tardigrade-nx.github.io/2020/comptagerdm/</loc>
     <lastmod>2020-12-12T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tardigrade-nx.github.io/archives/2019/</loc>
+    <lastmod>2019-07-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tardigrade-nx.github.io/2019/tatanga/</loc>
+    <lastmod>2019-07-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tardigrade-nx.github.io/tags/nintendo-switch/</loc>
+    <lastmod>2019-07-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -78,8 +93,13 @@
   </url>
   
   <url>
-    <loc>https://tardigrade-nx.github.io/tags/nintendo-switch/</loc>
-    <lastmod>2018-10-26T00:00:00+02:00</lastmod>
+    <loc>https://tardigrade-nx.github.io/archives/2016/</loc>
+    <lastmod>2016-11-21T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tardigrade-nx.github.io/2016/optimticketsresto/</loc>
+    <lastmod>2016-11-21T00:00:00+02:00</lastmod>
   </url>
   
 </urlset>

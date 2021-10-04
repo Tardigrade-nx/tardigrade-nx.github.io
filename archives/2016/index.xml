@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2016 on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/archives/2016/</link>
+    <description>Recent content in 2016 on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2016 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/archives/2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Android] OptimTicketsResto</title>
+      <link>https://tardigrade-nx.github.io/2016/optimticketsresto/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2016/optimticketsresto/</guid>
+      <description>OptimTicketsResto OptimTicketsResto est une application Android, pour calculer les tickets restaurant.
+Exemple ci-dessous : vous disposez de 2 carnets de tickets :
+ un de 9€ avec 3 tickets restants un de 6,50€ avec 20 tickets restants vous devez payer 75,40€  L&amp;rsquo;application vous donne le nombre de tickets à donner de chaque carnet, pour s&amp;rsquo;approcher au maximum du prix sans le dépasser, ainsi que le restant, à payer par un autre moyen.</description>
+    </item>
+    
+  </channel>
+</rss>

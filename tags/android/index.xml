@@ -30,5 +30,16 @@
 Il prend en entrée un fichier RDM exporté du logiciel HASTUS via le module Rider, et produit en sortie le même fichier avec les heures d&amp;rsquo;arrivée, de départ, et le nombre de montées / descentes renseignés.</description>
     </item>
     
+    <item>
+      <title>[Android] OptimTicketsResto</title>
+      <link>https://tardigrade-nx.github.io/2016/optimticketsresto/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2016/optimticketsresto/</guid>
+      <description>OptimTicketsResto OptimTicketsResto est une application Android, pour calculer les tickets restaurant.
+Exemple ci-dessous : vous disposez de 2 carnets de tickets :
+ un de 9€ avec 3 tickets restants un de 6,50€ avec 20 tickets restants vous devez payer 75,40€  L&amp;rsquo;application vous donne le nombre de tickets à donner de chaque carnet, pour s&amp;rsquo;approcher au maximum du prix sans le dépasser, ainsi que le restant, à payer par un autre moyen.</description>
+    </item>
+    
   </channel>
 </rss>
