@@ -37,9 +37,20 @@ Vidéo : https://youtu.be/BflQidQx_wo</description>
       <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>https://tardigrade-nx.github.io/2018/slitherlinknx/</guid>
-      <description>SlitherlinkNX Slitherlink is a logic puzzle game created in 1989 by Japanese publisher Nikoli, famous for creating Sudoku, among many other puzzle games. See (https://en.wikipedia.org/wiki/Slitherlink) for more info.
-I discovered the game a few years ago on the Nintendo DS with &amp;lsquo;Puzzle Series Vol. 5: Slitherlink&amp;rsquo;, which was never released outside of Japan. It&amp;rsquo;s such a good game I became addicted to it, just like with Picross and Nurikabe.
+      <description>SlitherlinkNX Slitherlink is a logic puzzle game created in 1989 by Japanese publisher Nikoli, famous for creating Sudoku, among many other puzzle games. See https://en.wikipedia.org/wiki/Slitherlink for more info.
+I discovered the game a few years ago on the Nintendo DS with &amp;lsquo;Puzzle Series Vol. 5: Slitherlink&amp;rsquo;, which was never released outside of Japan. It&amp;rsquo;s such a good game I grew addicted to it, just like with Picross and Nurikabe.
 This is my version of the game for the Nintendo Switch.</description>
+    </item>
+    
+    <item>
+      <title>[Dingoo] Slitherlink</title>
+      <link>https://tardigrade-nx.github.io/2010/slitherlink/</link>
+      <pubDate>Sun, 18 Apr 2010 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2010/slitherlink/</guid>
+      <description>Slitherlink is a logic puzzle game created in 1989 by Japanese publisher Nikoli, famous for creating Sudoku, among many other puzzle games. See https://en.wikipedia.org/wiki/Slitherlink for more info.
+I discovered the game a few years ago on the Nintendo DS with &amp;lsquo;Puzzle Series Vol. 5: Slitherlink&amp;rsquo;, which was never released outside of Japan. It&amp;rsquo;s such a good game I grew addicted to it, just like with Picross and Nurikabe.
+This is my version of the game for Dingux (Dingoo Linux).</description>
     </item>
     
     <item>
@@ -81,6 +92,31 @@ Everlasting Love is a combination of a 2D platformer and a rhythm game, in which
 Download: Everlasting.zip / Everlasting_sc.zip / Everlasting_gba.zip
 How to play :
  The monkey can move right and left during jumps only. No walking. As soon as he touches a wall, he holds onto it until the next jump.</description>
+    </item>
+    
+    <item>
+      <title>[Nintendo DS] Touch me</title>
+      <link>https://tardigrade-nx.github.io/2006/touchme/</link>
+      <pubDate>Wed, 26 Jul 2006 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2006/touchme/</guid>
+      <description>Touch me (I&amp;rsquo;m famous) Homebrew game for the Nintendo DS.
+Touch me (I&amp;rsquo;m famous) is a mix between a shooting game and a rhythm game. The song heard during the game is a sample from Sweet euphemisms by Soso.
+Download: TouchMe_nds.zip / TouchMe_gba.zip
+Source: TouchMe_0.1_src.zip
+How to play:
+Hold the DS vertically. Shoot the enemies by tapping them with the stylus, but always by the rhythm: either on the beat (indicated by the flash), or on the back beat.</description>
+    </item>
+    
+    <item>
+      <title>[Nintendo DS] Oil Panic DS</title>
+      <link>https://tardigrade-nx.github.io/2006/oilpanicds/</link>
+      <pubDate>Wed, 19 Apr 2006 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2006/oilpanicds/</guid>
+      <description>Oil Panic DS Homebrew game for the Nintendo DS.
+Oil Panic DS is a simulator of the Game&amp;amp;Watch Oil Panic.
+Download: OilPanicDS_nds.zip / OilPanicDS_gba.zip</description>
     </item>
     
   </channel>

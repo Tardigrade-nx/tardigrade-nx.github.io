@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2009 on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/archives/2009/</link>
+    <description>Recent content in 2009 on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jul 2009 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/archives/2009/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Linux] Mulren</title>
+      <link>https://tardigrade-nx.github.io/2009/mulren/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2009/mulren/</guid>
+      <description>Mulren mulren.sh is a bash script for renaming multiple files according to a given pattern.
+Download: mulren.sh
+How to use :
+Example: rename a set of files testfile_a.txt to hello_file001.txt:
+Example: rename a set of files &amp;ldquo;Artist - Track 01.ogg&amp;rdquo; to &amp;ldquo;Artist_Track_01.ogg&amp;rdquo;:</description>
+    </item>
+    
+  </channel>
+</rss>

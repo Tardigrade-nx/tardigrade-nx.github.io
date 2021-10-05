@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2006 on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/archives/2006/</link>
+    <description>Recent content in 2006 on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2006 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/archives/2006/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Nintendo DS] Touch me</title>
+      <link>https://tardigrade-nx.github.io/2006/touchme/</link>
+      <pubDate>Wed, 26 Jul 2006 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2006/touchme/</guid>
+      <description>Touch me (I&amp;rsquo;m famous) Homebrew game for the Nintendo DS.
+Touch me (I&amp;rsquo;m famous) is a mix between a shooting game and a rhythm game. The song heard during the game is a sample from Sweet euphemisms by Soso.
+Download: TouchMe_nds.zip / TouchMe_gba.zip
+Source: TouchMe_0.1_src.zip
+How to play:
+Hold the DS vertically. Shoot the enemies by tapping them with the stylus, but always by the rhythm: either on the beat (indicated by the flash), or on the back beat.</description>
+    </item>
+    
+    <item>
+      <title>[Nintendo DS] Oil Panic DS</title>
+      <link>https://tardigrade-nx.github.io/2006/oilpanicds/</link>
+      <pubDate>Wed, 19 Apr 2006 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2006/oilpanicds/</guid>
+      <description>Oil Panic DS Homebrew game for the Nintendo DS.
+Oil Panic DS is a simulator of the Game&amp;amp;Watch Oil Panic.
+Download: OilPanicDS_nds.zip / OilPanicDS_gba.zip</description>
+    </item>
+    
+  </channel>
+</rss>

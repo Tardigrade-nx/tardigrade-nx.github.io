@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2010 on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/archives/2010/</link>
+    <description>Recent content in 2010 on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Apr 2010 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/archives/2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Dingoo] Slitherlink</title>
+      <link>https://tardigrade-nx.github.io/2010/slitherlink/</link>
+      <pubDate>Sun, 18 Apr 2010 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2010/slitherlink/</guid>
+      <description>Slitherlink is a logic puzzle game created in 1989 by Japanese publisher Nikoli, famous for creating Sudoku, among many other puzzle games. See https://en.wikipedia.org/wiki/Slitherlink for more info.
+I discovered the game a few years ago on the Nintendo DS with &amp;lsquo;Puzzle Series Vol. 5: Slitherlink&amp;rsquo;, which was never released outside of Japan. It&amp;rsquo;s such a good game I grew addicted to it, just like with Picross and Nurikabe.
+This is my version of the game for Dingux (Dingoo Linux).</description>
+    </item>
+    
+  </channel>
+</rss>
