@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2012 on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/archives/2012/</link>
+    <description>Recent content in 2012 on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2012 00:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/archives/2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Android] Card Games</title>
+      <link>https://tardigrade-nx.github.io/2012/cardgames/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2012/cardgames/</guid>
+      <description>Solitaire! A Klondike game, easy to play on a smartphone touch screen. Instead of using inaccurate drag-and-drop to select a particular card stack, just click the source pile, then the destination pile, and let the computer manage the move.
+Google Play Store : https://play.google.com/store/apps/details?id=com.robglu.solitaire
+ Freecell! A Freecell game easy to play on a smartphone touch screen. Instead of using inaccurate drag-and-drop to select a particular card stack, just click the source pile, then the destination pile, and let the computer manage the move.</description>
+    </item>
+    
+  </channel>
+</rss>

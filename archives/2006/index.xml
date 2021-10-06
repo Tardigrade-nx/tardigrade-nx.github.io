@@ -5,10 +5,23 @@
     <description>Recent content in 2006 on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2006 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2006 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/archives/2006/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Nintendo DS] Ninji &amp; Zarbi</title>
+      <link>https://tardigrade-nx.github.io/2006/ninjizarbi/</link>
+      <pubDate>Mon, 25 Sep 2006 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2006/ninjizarbi/</guid>
+      <description>Ninji &amp;amp; Zarbi A homebrew game for the Nintendo DS.
+Download: Ninji_nds.zip / Ninji_gba.zip / Ninji_sc.zip
+Source: Ninji_0.1_src.zip
+At any time, the two characters Ninji (bottom screen) and Zarbi (upper screen) are located at the same place on their respective screen. You control both characters at the same time.
+The aim of the game is to achieve the highest score possible, by neutralizing Bullet Bills and catching the NDSes that appear on screen.</description>
+    </item>
     
     <item>
       <title>[Nintendo DS] Touch me</title>

@@ -5,10 +5,23 @@
     <description>Recent content in nintendo-ds on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Mar 2007 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2008 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/tags/nintendo-ds/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Nintendo DS] Negative Space</title>
+      <link>https://tardigrade-nx.github.io/2008/negativespace/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2008/negativespace/</guid>
+      <description>Negative Space An original homebrew game for the Nintendo DS, based on the concept of negative space.
+Download: NegativeSpacev2_nds.zip / NegativeSpacev2_gba.zip
+Source: NegativeSpacev2_src.zip
+How to play:
+The whole game contains only two colors: black and white. The player controls two &amp;lsquo;blob&amp;rsquo; characters: the white blob moves in the black space, and the black blob in the white space. That&amp;rsquo;s why, empty space for one blob represents solid ground and walls for the other.</description>
+    </item>
     
     <item>
       <title>[Nintendo DS] Everlasting Love</title>
@@ -21,6 +34,19 @@ Everlasting Love is a combination of a 2D platformer and a rhythm game, in which
 Download: Everlasting.zip / Everlasting_sc.zip / Everlasting_gba.zip
 How to play :
  The monkey can move right and left during jumps only. No walking. As soon as he touches a wall, he holds onto it until the next jump.</description>
+    </item>
+    
+    <item>
+      <title>[Nintendo DS] Ninji &amp; Zarbi</title>
+      <link>https://tardigrade-nx.github.io/2006/ninjizarbi/</link>
+      <pubDate>Mon, 25 Sep 2006 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2006/ninjizarbi/</guid>
+      <description>Ninji &amp;amp; Zarbi A homebrew game for the Nintendo DS.
+Download: Ninji_nds.zip / Ninji_gba.zip / Ninji_sc.zip
+Source: Ninji_0.1_src.zip
+At any time, the two characters Ninji (bottom screen) and Zarbi (upper screen) are located at the same place on their respective screen. You control both characters at the same time.
+The aim of the game is to achieve the highest score possible, by neutralizing Bullet Bills and catching the NDSes that appear on screen.</description>
     </item>
     
     <item>

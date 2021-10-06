@@ -25,5 +25,18 @@ Credits:
  Development: Tardigrade Graphics library: JGE++ Physics engine: Chipmunk  </description>
     </item>
     
+    <item>
+      <title>[Nintendo DS] Negative Space</title>
+      <link>https://tardigrade-nx.github.io/2008/negativespace/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2008/negativespace/</guid>
+      <description>Negative Space An original homebrew game for the Nintendo DS, based on the concept of negative space.
+Download: NegativeSpacev2_nds.zip / NegativeSpacev2_gba.zip
+Source: NegativeSpacev2_src.zip
+How to play:
+The whole game contains only two colors: black and white. The player controls two &amp;lsquo;blob&amp;rsquo; characters: the white blob moves in the black space, and the black blob in the white space. That&amp;rsquo;s why, empty space for one blob represents solid ground and walls for the other.</description>
+    </item>
+    
   </channel>
 </rss>
