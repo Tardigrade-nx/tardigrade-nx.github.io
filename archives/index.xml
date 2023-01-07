@@ -5,10 +5,19 @@
     <description>Recent content in Archives on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2023 09:06:31 +0100</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023</title>
+      <link>https://tardigrade-nx.github.io/archives/2023/</link>
+      <pubDate>Sat, 07 Jan 2023 09:06:31 +0100</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/archives/2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2021</title>

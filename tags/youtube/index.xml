@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/tags/youtube/</link>
+    <description>Recent content in Youtube on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jan 2023 09:06:31 +0100</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Retro] ROM Hacks Youtube Channel</title>
+      <link>https://tardigrade-nx.github.io/2023/youtubechannel/</link>
+      <pubDate>Sat, 07 Jan 2023 09:06:31 +0100</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2023/youtubechannel/</guid>
+      <description>Youtube Channel Here&amp;rsquo;s my Youtube Channel, where I speak (in french!) about ROM Hacks, emulation, Satellaview and other Retrogaming oddities.
+https://www.youtube.com/channel/UCK5EfoQykXwVQR26yWaKfqA/videos</description>
+    </item>
+    
+  </channel>
+</rss>

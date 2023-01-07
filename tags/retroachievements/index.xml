@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RetroAchievements on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/tags/retroachievements/</link>
+    <description>Recent content in RetroAchievements on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jan 2023 08:56:42 +0100</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/tags/retroachievements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Retro] RetroAchievements</title>
+      <link>https://tardigrade-nx.github.io/2023/retroachievements/</link>
+      <pubDate>Sat, 07 Jan 2023 08:56:42 +0100</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2023/retroachievements/</guid>
+      <description>RetroAchievements https://retroachievements.org/ is a zero profit community who collaborate and compete to earn custom-made achievements in classic games through emulation. Achievements are made by and for the community.
+I&amp;rsquo;m a RetroAchievements user and developer.
+ Here is my RetroAchievements page: https://retroachievements.org/user/Tardigrade Here are the RetroAchievements sets I&amp;rsquo;ve created: https://retroachievements.org/gameList.php?d=Tardigrade  </description>
+    </item>
+    
+  </channel>
+</rss>

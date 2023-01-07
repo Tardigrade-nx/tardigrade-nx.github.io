@@ -1,215 +1,146 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://tardigrade-nx.github.io/archives/2023/</loc>
+    <lastmod>2023-01-07T09:06:31+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/2023/youtubechannel/</loc>
+    <lastmod>2023-01-07T09:06:31+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/archives/</loc>
+    <lastmod>2023-01-07T09:06:31+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/post/</loc>
+    <lastmod>2023-01-07T09:06:31+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/tags/</loc>
+    <lastmod>2023-01-07T09:06:31+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/</loc>
+    <lastmod>2023-01-07T09:06:31+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/tags/youtube/</loc>
+    <lastmod>2023-01-07T09:06:31+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/2023/retroachievements/</loc>
+    <lastmod>2023-01-07T08:56:42+01:00</lastmod>
+  </url><url>
+    <loc>https://tardigrade-nx.github.io/tags/retroachievements/</loc>
+    <lastmod>2023-01-07T08:56:42+01:00</lastmod>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2021/</loc>
     <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2021/thepawn/</loc>
     <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/android/</loc>
     <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tardigrade-nx.github.io/archives/</loc>
-    <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/game/</loc>
     <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tardigrade-nx.github.io/post/</loc>
-    <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tardigrade-nx.github.io/tags/</loc>
-    <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tardigrade-nx.github.io/</loc>
-    <lastmod>2021-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2021/351files/</loc>
     <lastmod>2021-07-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/rg351/</loc>
     <lastmod>2021-07-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/tool/</loc>
     <lastmod>2021-07-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2020/</loc>
     <lastmod>2020-12-12T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2020/comptagerdm/</loc>
     <lastmod>2020-12-12T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2019/</loc>
     <lastmod>2019-07-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2019/tatanga/</loc>
     <lastmod>2019-07-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/nintendo-switch/</loc>
     <lastmod>2019-07-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2018/</loc>
     <lastmod>2018-10-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2018/slitherlinknx/</loc>
     <lastmod>2018-10-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2016/</loc>
     <lastmod>2016-11-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2016/optimticketsresto/</loc>
     <lastmod>2016-11-21T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2012/</loc>
     <lastmod>2012-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2012/cardgames/</loc>
     <lastmod>2012-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2011/</loc>
     <lastmod>2011-02-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2011/dinguxcommander/</loc>
     <lastmod>2011-02-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/dingoo/</loc>
     <lastmod>2011-02-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2010/</loc>
     <lastmod>2010-04-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2010/slitherlink/</loc>
     <lastmod>2010-04-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2009/</loc>
     <lastmod>2009-07-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2009/mulren/</loc>
     <lastmod>2009-07-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/linux/</loc>
     <lastmod>2009-07-30T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2008/</loc>
     <lastmod>2008-07-07T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2008/antitetris/</loc>
     <lastmod>2008-07-07T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/psp/</loc>
     <lastmod>2008-07-07T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2008/negativespace/</loc>
     <lastmod>2008-03-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/tags/nintendo-ds/</loc>
     <lastmod>2008-03-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2007/</loc>
     <lastmod>2007-11-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2007/gamewatchfantasies/</loc>
     <lastmod>2007-11-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2007/everlastinglove/</loc>
     <lastmod>2007-03-24T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/archives/2006/</loc>
     <lastmod>2006-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2006/ninjizarbi/</loc>
     <lastmod>2006-09-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2006/touchme/</loc>
     <lastmod>2006-07-26T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tardigrade-nx.github.io/2006/oilpanicds/</loc>
     <lastmod>2006-04-19T00:00:00+02:00</lastmod>
   </url>
-  
 </urlset>
