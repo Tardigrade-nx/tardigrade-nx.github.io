@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Tardigrade&#39;s dev blog  | [Game Boy] Logic Island</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" />
+    <link rel="stylesheet" href="https://tardigrade-nx.github.io/css/blog.css" />
+    </head>
+<body>
+
+    
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://tardigrade-nx.github.io/">Home</a>
+        </div>
+    </nav>
+    
+
+    
+    <section class="hero is-info is-medium">
+        <div class="hero-body" style="background-image: url(https://tardigrade-nx.github.io/img/bg-blog.jpg);">
+            <div class="container has-text-centered">
+                <br>
+                <h1 class="title is-size-1">
+                    
+                        [Game Boy] Logic Island
+                    
+                </h1>
+                
+            </div>
+        </div>
+    </section>
+
+
+<div class="container">
+    <div class="section">
+    
+
+<div class="columns">
+    <div class="column is-9">
+        <div class="tile is-child box">
+            <div class="content">
+                <h1 id="logic-island">Logic Island</h1>
+<p><strong>Logic Island</strong> is my first homebrew game for the original Game Boy, yay!</p>
+<p><img src="/projects/LogicIsland/LogicIsland_screenshot_02.png" alt="Screenshot"> <img src="/projects/LogicIsland/LogicIsland_screenshot_05.png" alt="Screenshot"></p>
+<ul>
+<li><strong>Download</strong> : <a href="https://tardigrade-nx.itch.io/logic-island">https://tardigrade-nx.itch.io/logic-island</a></li>
+</ul>
+<p><strong>Logic Island</strong> a Picross-like logic puzzle game for the original Game Boy, inspired by Nikoli&rsquo;s <a href="https://en.wikipedia.org/wiki/Nurikabe_(puzzle)">Nurikabe</a>.
+<strong>Nurikabe</strong> is one of my favorite games of all times. This is my version of it, with graphics hopefully a little more elaborate than a simple grid.</p>
+<p>The rules may not be as simple as <strong>Picross</strong> at first, but it&rsquo;s worth it: once you know how to play, the game becomes very addictive, with a lot of depth and strategies to offer.
+I&rsquo;ll try to explain as clearly as possible in this post, with a step-by-step tutorial below.</p>
+<h2 id="rules">Rules</h2>
+<p>For example, here is an empty 5x5 grid, and the same grid, solved.</p>
+<p><img src="/projects/LogicIsland/LogicIsland_rules_01.png" alt="Rules"></p>
+<p>The objective is to draw a water stream, that fullfills all 4 conditions:</p>
+<ol>
+<li>Each island has one numbered cell</li>
+<li>This number is the number of cells in that island</li>
+<li>There is only one stream in the perimeter (branches allowed)</li>
+<li>There is no 2x2 squares of water</li>
+</ol>
+<p>Additionally, you can mark cells with a stone <img src="/projects/LogicIsland/LogicIsland_rules_stone.png" alt="Stone"> when you&rsquo;re sure it&rsquo;s a ground cell.
+Stones <img src="/projects/LogicIsland/LogicIsland_rules_stone.png" alt="Stone"> are just an indication, they don&rsquo;t count in the grid resolution.</p>
+<p>Two cells touch if they&rsquo;re adjacent, not diagonal.</p>
+<h2 id="tutorial">Tutorial</h2>
+<p>As always with logic games, you should work by deduction, and not by guessing. Let&rsquo;s take the example grid above.</p>
+<ul>
+<li>In accordance with rule #1, you can separate all the numbered cells.</li>
+</ul>
+<p><img src="/projects/LogicIsland/LogicIsland_rules_02.png" alt="Rules"></p>
+<ul>
+<li>In accordance with rules #2, you can surround the [1] cells with water.</li>
+</ul>
+<p><img src="/projects/LogicIsland/LogicIsland_rules_03.png" alt="Rules"></p>
+<ul>
+<li>In accordance with rules #3, each water cell must touch at least one other water cell in the perimeter. Thus, you can &ldquo;extend&rdquo; the isolated water cells when there&rsquo;s only one path possible to do that.
+We could do this with the 4 cases here, but for the sake of the example, let&rsquo;s do it only for the 2 upper cells.</li>
+</ul>
+<p><img src="/projects/LogicIsland/LogicIsland_rules_04.png" alt="Rules"></p>
+<ul>
+<li>Now, following rule #2, there&rsquo;s only one way that the [3] island in the upper-left corner can have 3 cells.
+We can mark those cells with stones (not mandatory), and &ldquo;close&rdquo; the island by surrounding it with water.</li>
+</ul>
+<p><img src="/projects/LogicIsland/LogicIsland_rules_05.png" alt="Rules"></p>
+<ul>
+<li>Now if we look at the cell in the center: it cannot be water, otherwise that would create 2x2 squares of water, which is fordibben by rule #4.
+So we can be sure it&rsquo;s a ground cell, and we can mark it with a stone.
+In general, as soon as there are 3 cells of water in a square formation, you can immediately mark the 4th with a stone.</li>
+</ul>
+<p><img src="/projects/LogicIsland/LogicIsland_rules_06.png" alt="Rules"></p>
+<ul>
+<li>The only thing left to do is to connect the two isolated water cells to the rest of the water stream, according to rule #3, just like we did earlier.</li>
+</ul>
+<p><img src="/projects/LogicIsland/LogicIsland_rules_07.png" alt="Rules"></p>
+<p>And that&rsquo;s it, the island is solved!</p>
+<h2 id="techniques">Techniques</h2>
+<p>There are many techniques you can use, resulting of the 4 rules above:</p>
+<ul>
+<li><a href="https://www.conceptispuzzles.com/index.aspx?uri=puzzle/nurikabe/techniques">Nurikabe techniques</a></li>
+<li><a href="https://www.logicgamesonline.com/nurikabe/tutorial.html">Nurikabe tutorial</a></li>
+</ul>
+<h2 id="credits">Credits</h2>
+<ul>
+<li>Development: Tardigrade</li>
+<li>Original concept: Nurikabe, by Nikoli</li>
+<li>Title font: <a href="https://fontenddev.com/fonts/grape-soda/">Grape Soda</a> by jeti, licensed under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></li>
+<li>Title graphics by <a href="https://opengameart.org/content/seasonal-platformer-tiles">GrafxKid</a>, licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a></li>
+<li>Sound effects by <a href="https://benjaminno.itch.io/sweet-sounds-sfx-pack">Coffee &lsquo;Valen&rsquo; Bat</a></li>
+</ul>
+<p>The game was developed in C language, with <a href="https://github.com/gbdk-2020/gbdk-2020">gbdk</a>.</p>
+
+            </div>
+        </div>
+    </div>
+    <div class="column is-3">
+        <div class="card">
+    <div class="card-content">
+        <h1 class="title is-5">Tags</h1>
+        <div class="tags">
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/android">android</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/dingoo">dingoo</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/game">game</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/game-boy">game-boy</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/linux">linux</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/nintendo-ds">nintendo-ds</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/nintendo-switch">nintendo-switch</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/psp">psp</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/retroachievements">retroachievements</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/rg351">rg351</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/tool">tool</a></span>
+        
+            <span class="tag"><a href="https://tardigrade-nx.github.io/tags/youtube">youtube</a></span>
+        
+        </div>          
+    </div>
+</div><br>
+        <div class="card">
+    <div class="card-content">
+        <h1 class="title is-5">Projects</h1>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2023/logicisland/">[Game Boy] Logic Island</a></h1>
+            <time class="has-text-grey-light is-size-7">27 June 2023</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2023/youtubechannel/">[Retro] ROM Hacks Youtube Channel</a></h1>
+            <time class="has-text-grey-light is-size-7">7 January 2023</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2023/retroachievements/">[Retro] RetroAchievements</a></h1>
+            <time class="has-text-grey-light is-size-7">7 January 2023</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2021/thepawn/">[Android] The Pawn</a></h1>
+            <time class="has-text-grey-light is-size-7">25 September 2021</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2021/351files/">[RG351] 351Files</a></h1>
+            <time class="has-text-grey-light is-size-7">3 July 2021</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2020/comptagerdm/">[Android] ComptageRDM</a></h1>
+            <time class="has-text-grey-light is-size-7">12 December 2020</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2019/tatanga/">[Nintendo Switch] Tatanga</a></h1>
+            <time class="has-text-grey-light is-size-7">25 July 2019</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2018/slitherlinknx/">[Nintendo Switch] SlitherlinkNX</a></h1>
+            <time class="has-text-grey-light is-size-7">26 October 2018</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2016/optimticketsresto/">[Android] OptimTicketsResto</a></h1>
+            <time class="has-text-grey-light is-size-7">21 November 2016</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2012/cardgames/">[Android] Card Games</a></h1>
+            <time class="has-text-grey-light is-size-7">1 May 2012</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2011/dinguxcommander/">[Dingoo] DinguxCommander</a></h1>
+            <time class="has-text-grey-light is-size-7">5 February 2011</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2010/slitherlink/">[Dingoo] Slitherlink</a></h1>
+            <time class="has-text-grey-light is-size-7">18 April 2010</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2009/mulren/">[Linux] Mulren</a></h1>
+            <time class="has-text-grey-light is-size-7">30 July 2009</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2008/antitetris/">[PSP] AntiTetris</a></h1>
+            <time class="has-text-grey-light is-size-7">7 July 2008</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2008/negativespace/">[Nintendo DS] Negative Space</a></h1>
+            <time class="has-text-grey-light is-size-7">3 March 2008</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2007/gamewatchfantasies/">[PSP] Game&amp;Watch Fantasies</a></h1>
+            <time class="has-text-grey-light is-size-7">18 November 2007</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2007/everlastinglove/">[Nintendo DS] Everlasting Love</a></h1>
+            <time class="has-text-grey-light is-size-7">24 March 2007</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2006/ninjizarbi/">[Nintendo DS] Ninji &amp; Zarbi</a></h1>
+            <time class="has-text-grey-light is-size-7">25 September 2006</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2006/touchme/">[Nintendo DS] Touch me</a></h1>
+            <time class="has-text-grey-light is-size-7">26 July 2006</time>
+        
+            <h1><a href="https://tardigrade-nx.github.io/2006/oilpanicds/">[Nintendo DS] Oil Panic DS</a></h1>
+            <time class="has-text-grey-light is-size-7">19 April 2006</time>
+        
+    </div>
+</div>
+<br>
+                
+  
+
+
+
+<div class="card">
+    <div class="card-content">
+        <h1 class="title is-5">Related posts</h1>
+      
+      
+            <h1><a href="https://tardigrade-nx.github.io/2021/thepawn/">[Android] The Pawn</a></h1>
+            <time class="has-text-grey-light is-size-7">25 September 2021</time>
+      
+            <h1><a href="https://tardigrade-nx.github.io/2019/tatanga/">[Nintendo Switch] Tatanga</a></h1>
+            <time class="has-text-grey-light is-size-7">25 July 2019</time>
+      
+            <h1><a href="https://tardigrade-nx.github.io/2018/slitherlinknx/">[Nintendo Switch] SlitherlinkNX</a></h1>
+            <time class="has-text-grey-light is-size-7">26 October 2018</time>
+      
+            <h1><a href="https://tardigrade-nx.github.io/2012/cardgames/">[Android] Card Games</a></h1>
+            <time class="has-text-grey-light is-size-7">1 May 2012</time>
+      
+            <h1><a href="https://tardigrade-nx.github.io/2010/slitherlink/">[Dingoo] Slitherlink</a></h1>
+            <time class="has-text-grey-light is-size-7">18 April 2010</time>
+      
+            <h1><a href="https://tardigrade-nx.github.io/2008/antitetris/">[PSP] AntiTetris</a></h1>
+            <time class="has-text-grey-light is-size-7">7 July 2008</time>
+      
+            <h1><a href="https://tardigrade-nx.github.io/2008/negativespace/">[Nintendo DS] Negative Space</a></h1>
+            <time class="has-text-grey-light is-size-7">3 March 2008</time>
+      
+    </div>
+</div>
+
+    
+<br>
+        <div class="card">
+    <div class="card-content">
+        <h1 class="title is-5">Archives</h1>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2023">2023</a> (3)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2021">2021</a> (2)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2020">2020</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2019">2019</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2018">2018</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2016">2016</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2012">2012</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2011">2011</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2010">2010</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2009">2009</a> (1)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2008">2008</a> (2)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2007">2007</a> (2)<br>
+        
+            <a href="https://tardigrade-nx.github.io/archives/2006">2006</a> (3)<br>
+        
+    </div>
+</div>
+
+    </div>
+</div>
+
+
+    </div>
+</div>
+
+<footer class="footer has-background-grey-darker has-text-white">
+    <div class="content has-text-centered">
+        <p>
+            <span class="icon is-large"><a href="https://twitter.com/" class="mysocial" rel="me"><i class="fab fa-twitter fa-3x"></i></a></span>&nbsp;&nbsp;
+            <span class="icon is-large"><a href="https://www.youtube.com/" class="mysocial" rel="me"><i class="fab fa-youtube fa-3x"></i></a></span>&nbsp;&nbsp;
+            <span class="icon is-large"><a href="https://github.com/" class="mysocial" rel="me"><i class="fab fa-github fa-3x"></i></a></span>&nbsp;&nbsp;
+            <br><br>
+            Copyright &copy; Tardigrade&#39;s dev blog 2023 - Theme by <a href="https://jeffprod.com" class="mysocial">JeffProd.com</a>
+            - <a class="mysocial" href="https://tardigrade-nx.github.io/about">About</a>
+        </p>
+    </div>
+</footer>
+
+<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
+</body>
+</html>

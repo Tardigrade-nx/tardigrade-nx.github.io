@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game-boy on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/tags/game-boy/</link>
+    <description>Recent content in game-boy on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jun 2023 18:13:49 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/tags/game-boy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Game Boy] Logic Island</title>
+      <link>https://tardigrade-nx.github.io/2023/logicisland/</link>
+      <pubDate>Tue, 27 Jun 2023 18:13:49 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2023/logicisland/</guid>
+      <description>Logic Island Logic Island is my first homebrew game for the original Game Boy, yay!
+ Download : https://tardigrade-nx.itch.io/logic-island  Logic Island a Picross-like logic puzzle game for the original Game Boy, inspired by Nikoli&amp;rsquo;s Nurikabe. Nurikabe is one of my favorite games of all times. This is my version of it, with graphics hopefully a little more elaborate than a simple grid.
+The rules may not be as simple as Picross at first, but it&amp;rsquo;s worth it: once you know how to play, the game becomes very addictive, with a lot of depth and strategies to offer.</description>
+    </item>
+    
+  </channel>
+</rss>
