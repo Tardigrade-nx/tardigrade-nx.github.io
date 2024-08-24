@@ -5,22 +5,20 @@
     <description>Recent content in linux on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2009 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0200</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[Linux] Mulren</title>
-      <link>https://tardigrade-nx.github.io/2009/mulren/</link>
-      <pubDate>Thu, 30 Jul 2009 00:00:00 +0200</pubDate>
+      <title>[RG351] 351Files</title>
+      <link>https://tardigrade-nx.github.io/2021/351files/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://tardigrade-nx.github.io/2009/mulren/</guid>
-      <description>Mulren mulren.sh is a bash script for renaming multiple files according to a given pattern.
-Download: mulren.sh
-How to use :
-Example: rename a set of files testfile_a.txt to hello_file001.txt:
-Example: rename a set of files &amp;ldquo;Artist - Track 01.ogg&amp;rdquo; to &amp;ldquo;Artist_Track_01.ogg&amp;rdquo;:</description>
+      <guid>https://tardigrade-nx.github.io/2021/351files/</guid>
+      <description>351Files 351Files is a single panel file manager, tailored for Anbernic 351 devices: RG351V and RG351P. It can be easily adapted to any Linux-based device.
+Based on DinguxCommander.
+Features  Single panel file manager Copy, move, rename, delete, create directories and files. Display file size, compute directory size Text file viewer Text file editor Image viewer (original size or fit screen, next / previous image)  Github page : https://github.com/Tardigrade-nx/351Files</description>
     </item>
     
   </channel>

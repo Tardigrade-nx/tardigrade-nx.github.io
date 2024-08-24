@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game-boy-advance on Tardigrade&#39;s dev blog</title>
+    <link>https://tardigrade-nx.github.io/tags/game-boy-advance/</link>
+    <description>Recent content in game-boy-advance on Tardigrade&#39;s dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2024 09:09:32 +0200</lastBuildDate>
+    
+        <atom:link href="https://tardigrade-nx.github.io/tags/game-boy-advance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Game Boy Advance] Discrete Orange</title>
+      <link>https://tardigrade-nx.github.io/2024/discreteorange/</link>
+      <pubDate>Sat, 17 Aug 2024 09:09:32 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2024/discreteorange/</guid>
+      <description>Discrete Orange Discrete Orange is a homebrew game, for the Game Boy Advance.
+It&amp;rsquo;s a turn-based puzzle-platformer, with discrete movement.
+More info &amp;amp; Download : https://tardigrade-nx.itch.io/discrete-orange
+Trailer : https://www.youtube.com/watch?v=9QHEMXD5rdA</description>
+    </item>
+    
+  </channel>
+</rss>

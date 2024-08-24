@@ -5,7 +5,7 @@
     <description>Recent content in Tags on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2023 18:13:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 09:09:32 +0200</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +13,18 @@
     <item>
       <title>game</title>
       <link>https://tardigrade-nx.github.io/tags/game/</link>
-      <pubDate>Tue, 27 Jun 2023 18:13:49 +0200</pubDate>
+      <pubDate>Sat, 17 Aug 2024 09:09:32 +0200</pubDate>
       
       <guid>https://tardigrade-nx.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game-boy-advance</title>
+      <link>https://tardigrade-nx.github.io/tags/game-boy-advance/</link>
+      <pubDate>Sat, 17 Aug 2024 09:09:32 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/tags/game-boy-advance/</guid>
       <description></description>
     </item>
     
@@ -43,6 +52,15 @@
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
       
       <guid>https://tardigrade-nx.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://tardigrade-nx.github.io/tags/linux/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
