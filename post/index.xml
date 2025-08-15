@@ -5,10 +5,21 @@
     <description>Recent content in Posts on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Aug 2024 09:09:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 12:00:41 +0200</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Game Boy] GameOfLifeKuzushi</title>
+      <link>https://tardigrade-nx.github.io/2025/gameoflifekuzushi/</link>
+      <pubDate>Sun, 10 Aug 2025 12:00:41 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2025/gameoflifekuzushi/</guid>
+      <description>Game Of Life Kusushi Game of Life Kuzushi is a homebrew game for Game Boy, that mixes Conway&amp;rsquo;s Game of Life, with a block breaker game.
+Unlike in regular block breaker games, here cells evolve periodically, following Conway&amp;rsquo;s Game of Life rules:
+Any live cell with two or three live neighbors lives on to the next generation. Any live cell with fewer than two or more than three live neighbors dies.</description>
+    </item>
     
     <item>
       <title>[Game Boy Advance] Discrete Orange</title>
@@ -18,8 +29,9 @@
       <guid>https://tardigrade-nx.github.io/2024/discreteorange/</guid>
       <description>Discrete Orange Discrete Orange is a homebrew game, for the Game Boy Advance.
 It&amp;rsquo;s a turn-based puzzle-platformer, with discrete movement.
-Trailer : https://www.youtube.com/watch?v=9QHEMXD5rdA
-More info &amp;amp; Download : https://tardigrade-nx.itch.io/discrete-orange</description>
+More info &amp;amp; Download : https://tardigrade-nx.itch.io/discrete-orange
+Trailer :
+Screenshots :</description>
     </item>
     
     <item>
@@ -29,7 +41,7 @@ More info &amp;amp; Download : https://tardigrade-nx.itch.io/discrete-orange</de
       
       <guid>https://tardigrade-nx.github.io/2023/logicisland/</guid>
       <description>Logic Island Logic Island is my first homebrew game for the original Game Boy, yay!
- Download : https://tardigrade-nx.itch.io/logic-island  Logic Island a Picross-like logic puzzle game for the original Game Boy, inspired by Nikoli&amp;rsquo;s Nurikabe. Nurikabe is one of my favorite games of all times. This is my version of it, with graphics hopefully a little more elaborate than a simple grid.
+Download : https://tardigrade-nx.itch.io/logic-island Logic Island a Picross-like logic puzzle game for the original Game Boy, inspired by Nikoli&amp;rsquo;s Nurikabe. Nurikabe is one of my favorite games of all times. This is my version of it, with graphics hopefully a little more elaborate than a simple grid.
 The rules may not be as simple as Picross at first, but it&amp;rsquo;s worth it: once you know how to play, the game becomes very addictive, with a lot of depth and strategies to offer.</description>
     </item>
     
@@ -41,7 +53,7 @@ The rules may not be as simple as Picross at first, but it&amp;rsquo;s worth it:
       <guid>https://tardigrade-nx.github.io/2023/retroachievements/</guid>
       <description>RetroAchievements https://retroachievements.org/ is a zero profit community who collaborate and compete to earn custom-made achievements in classic games through emulation. Achievements are made by and for the community.
 I&amp;rsquo;m a RetroAchievements user and developer.
- Here is my RetroAchievements page: https://retroachievements.org/user/Tardigrade Here are the RetroAchievements sets I&amp;rsquo;ve created: https://retroachievements.org/gameList.php?d=Tardigrade  </description>
+Here is my RetroAchievements page: https://retroachievements.org/user/Tardigrade Here are the RetroAchievements sets I&amp;rsquo;ve created: https://retroachievements.org/gameList.php?d=Tardigrade </description>
     </item>
     
     <item>
@@ -51,7 +63,7 @@ I&amp;rsquo;m a RetroAchievements user and developer.
       
       <guid>https://tardigrade-nx.github.io/2021/thepawn/</guid>
       <description>The Pawn The Pawn is an original puzzle game for Android, inspired by chess. You don&amp;rsquo;t need to know the rules of Chess to play, as it is quite different.
- Tap to move, one square at a time. Move onto another friend piece to change into it. Change into the king to win. Move onto an enemy piece to knock it out. Each piece has a different move set, indicated by arrows.</description>
+Tap to move, one square at a time. Move onto another friend piece to change into it. Change into the king to win. Move onto an enemy piece to knock it out. Each piece has a different move set, indicated by arrows.</description>
     </item>
     
     <item>
@@ -62,7 +74,8 @@ I&amp;rsquo;m a RetroAchievements user and developer.
       <guid>https://tardigrade-nx.github.io/2021/351files/</guid>
       <description>351Files 351Files is a single panel file manager, tailored for Anbernic 351 devices: RG351V and RG351P. It can be easily adapted to any Linux-based device.
 Based on DinguxCommander.
-Features  Single panel file manager Copy, move, rename, delete, create directories and files. Display file size, compute directory size Text file viewer Text file editor Image viewer (original size or fit screen, next / previous image)  Github page : https://github.com/Tardigrade-nx/351Files</description>
+Features Single panel file manager Copy, move, rename, delete, create directories and files. Display file size, compute directory size Text file viewer Text file editor Image viewer (original size or fit screen, next / previous image) Github page : https://github.com/Tardigrade-nx/351Files
+Releases : https://github.</description>
     </item>
     
     <item>
@@ -105,7 +118,7 @@ This is my version of the game for the Nintendo Switch.</description>
       <guid>https://tardigrade-nx.github.io/2016/optimticketsresto/</guid>
       <description>OptimTicketsResto OptimTicketsResto est une application Android, pour calculer les tickets restaurant.
 Exemple ci-dessous : vous disposez de 2 carnets de tickets :
- un de 9€ avec 3 tickets restants un de 6,50€ avec 20 tickets restants vous devez payer 75,40€  L&amp;rsquo;application vous donne le nombre de tickets à donner de chaque carnet, pour s&amp;rsquo;approcher au maximum du prix sans le dépasser, ainsi que le restant, à payer par un autre moyen.</description>
+un de 9€ avec 3 tickets restants un de 6,50€ avec 20 tickets restants vous devez payer 75,40€ L&amp;rsquo;application vous donne le nombre de tickets à donner de chaque carnet, pour s&amp;rsquo;approcher au maximum du prix sans le dépasser, ainsi que le restant, à payer par un autre moyen.</description>
     </item>
     
     <item>
@@ -118,7 +131,7 @@ Exemple ci-dessous : vous disposez de 2 carnets de tickets :
 Download: DinguxCommander_v2.1.tar.gz
 Source: DinguxCommander_v2.1_src.tar.gz
 Features:
- Copy, move and delete multiple files. View a file Execute a file Rename a file/dir Create a new directory Display disk space used by a list of selected files/dirs Display disk information (used, available)  For more information, see file README.txt.</description>
+Copy, move and delete multiple files. View a file Execute a file Rename a file/dir Create a new directory Display disk space used by a list of selected files/dirs Display disk information (used, available) For more information, see file README.txt.</description>
     </item>
     
     <item>
@@ -144,7 +157,7 @@ Download: AntiTetris.zip
 Source: AntiTetris_src.zip
 Vidéo: http://www.dailymotion.com/video/x61qf5_antitetris-psp-homebrew_videogames
 Credits:
- Development: Tardigrade Graphics library: JGE++ Physics engine: Chipmunk  </description>
+Development: Tardigrade Graphics library: JGE++ Physics engine: Chipmunk </description>
     </item>
     
     <item>
@@ -170,7 +183,7 @@ The whole game contains only two colors: black and white. The player controls tw
 Download: GWF.zip / GWFv2.zip
 Source: GWFv2_src.zip
 Game&amp;amp;Watch Fantasies is a puzzle/platform game for the PSP, inspired by the Game&amp;amp;Watch LCD games.
- Rule #1: Just like in a Game&amp;amp;Watch, the hero moves discontinuously. Therefore, he can &amp;ldquo;teleport&amp;rdquo; through thin obstacles by simply walking or jumping. However, gravity doesn&amp;rsquo;t allow him to do so: it is impossible to go through an obstacle when falling.   Rule #2: If the obstacle is too large, the hero will move until he touches it.</description>
+Rule #1: Just like in a Game&amp;amp;Watch, the hero moves discontinuously. Therefore, he can &amp;ldquo;teleport&amp;rdquo; through thin obstacles by simply walking or jumping. However, gravity doesn&amp;rsquo;t allow him to do so: it is impossible to go through an obstacle when falling. Rule #2: If the obstacle is too large, the hero will move until he touches it.</description>
     </item>
     
     <item>
@@ -183,7 +196,7 @@ Game&amp;amp;Watch Fantasies is a puzzle/platform game for the PSP, inspired by 
 Everlasting Love is a combination of a 2D platformer and a rhythm game, in which you have to adjust your jumps using the music. The song is Everlasting Love from the original soundtrack of We Love Katamari.
 Download: Everlasting.zip / Everlasting_sc.zip / Everlasting_gba.zip
 How to play :
- The monkey can move right and left during jumps only. No walking. As soon as he touches a wall, he holds onto it until the next jump.</description>
+The monkey can move right and left during jumps only. No walking. As soon as he touches a wall, he holds onto it until the next jump.</description>
     </item>
     
     <item>

@@ -17,7 +17,7 @@
       
       <guid>https://tardigrade-nx.github.io/2021/thepawn/</guid>
       <description>The Pawn The Pawn is an original puzzle game for Android, inspired by chess. You don&amp;rsquo;t need to know the rules of Chess to play, as it is quite different.
- Tap to move, one square at a time. Move onto another friend piece to change into it. Change into the king to win. Move onto an enemy piece to knock it out. Each piece has a different move set, indicated by arrows.</description>
+Tap to move, one square at a time. Move onto another friend piece to change into it. Change into the king to win. Move onto an enemy piece to knock it out. Each piece has a different move set, indicated by arrows.</description>
     </item>
     
     <item>
@@ -28,7 +28,8 @@
       <guid>https://tardigrade-nx.github.io/2021/351files/</guid>
       <description>351Files 351Files is a single panel file manager, tailored for Anbernic 351 devices: RG351V and RG351P. It can be easily adapted to any Linux-based device.
 Based on DinguxCommander.
-Features  Single panel file manager Copy, move, rename, delete, create directories and files. Display file size, compute directory size Text file viewer Text file editor Image viewer (original size or fit screen, next / previous image)  Github page : https://github.com/Tardigrade-nx/351Files</description>
+Features Single panel file manager Copy, move, rename, delete, create directories and files. Display file size, compute directory size Text file viewer Text file editor Image viewer (original size or fit screen, next / previous image) Github page : https://github.com/Tardigrade-nx/351Files
+Releases : https://github.</description>
     </item>
     
   </channel>

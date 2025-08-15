@@ -1,14 +1,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>game-boy on Tardigrade&#39;s dev blog</title>
+    <title>Game-Boy on Tardigrade&#39;s dev blog</title>
     <link>https://tardigrade-nx.github.io/tags/game-boy/</link>
-    <description>Recent content in game-boy on Tardigrade&#39;s dev blog</description>
+    <description>Recent content in Game-Boy on Tardigrade&#39;s dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jun 2023 18:13:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 12:00:41 +0200</lastBuildDate>
     
         <atom:link href="https://tardigrade-nx.github.io/tags/game-boy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Game Boy] GameOfLifeKuzushi</title>
+      <link>https://tardigrade-nx.github.io/2025/gameoflifekuzushi/</link>
+      <pubDate>Sun, 10 Aug 2025 12:00:41 +0200</pubDate>
+      
+      <guid>https://tardigrade-nx.github.io/2025/gameoflifekuzushi/</guid>
+      <description>Game Of Life Kusushi Game of Life Kuzushi is a homebrew game for Game Boy, that mixes Conway&amp;rsquo;s Game of Life, with a block breaker game.
+Unlike in regular block breaker games, here cells evolve periodically, following Conway&amp;rsquo;s Game of Life rules:
+Any live cell with two or three live neighbors lives on to the next generation. Any live cell with fewer than two or more than three live neighbors dies.</description>
+    </item>
     
     <item>
       <title>[Game Boy] Logic Island</title>
@@ -17,7 +28,7 @@
       
       <guid>https://tardigrade-nx.github.io/2023/logicisland/</guid>
       <description>Logic Island Logic Island is my first homebrew game for the original Game Boy, yay!
- Download : https://tardigrade-nx.itch.io/logic-island  Logic Island a Picross-like logic puzzle game for the original Game Boy, inspired by Nikoli&amp;rsquo;s Nurikabe. Nurikabe is one of my favorite games of all times. This is my version of it, with graphics hopefully a little more elaborate than a simple grid.
+Download : https://tardigrade-nx.itch.io/logic-island Logic Island a Picross-like logic puzzle game for the original Game Boy, inspired by Nikoli&amp;rsquo;s Nurikabe. Nurikabe is one of my favorite games of all times. This is my version of it, with graphics hopefully a little more elaborate than a simple grid.
 The rules may not be as simple as Picross at first, but it&amp;rsquo;s worth it: once you know how to play, the game becomes very addictive, with a lot of depth and strategies to offer.</description>
     </item>
     
