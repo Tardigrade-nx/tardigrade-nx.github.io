@@ -23,27 +23,6 @@ Releases : https://github.</description>
     </item>
     
     <item>
-      <title>[Android] ComptageRDM</title>
-      <link>https://tardigrade-nx.github.io/2020/comptagerdm/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://tardigrade-nx.github.io/2020/comptagerdm/</guid>
-      <description>ComptageRDM ComptageRDM est une application Android dans le domaine des transports en commun. Il s&amp;rsquo;agit d&amp;rsquo;un outil de comptage manuel, qui peut être utilisé embarqué à bord d&amp;rsquo;un bus, ou fixe à un poteau.
-Il prend en entrée un fichier RDM exporté du logiciel HASTUS via le module Rider, et produit en sortie le même fichier avec les heures d&amp;rsquo;arrivée, de départ, et le nombre de montées / descentes renseignés.</description>
-    </item>
-    
-    <item>
-      <title>[Android] OptimTicketsResto</title>
-      <link>https://tardigrade-nx.github.io/2016/optimticketsresto/</link>
-      <pubDate>Mon, 21 Nov 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://tardigrade-nx.github.io/2016/optimticketsresto/</guid>
-      <description>OptimTicketsResto OptimTicketsResto est une application Android, pour calculer les tickets restaurant.
-Exemple ci-dessous : vous disposez de 2 carnets de tickets :
-un de 9€ avec 3 tickets restants un de 6,50€ avec 20 tickets restants vous devez payer 75,40€ L&amp;rsquo;application vous donne le nombre de tickets à donner de chaque carnet, pour s&amp;rsquo;approcher au maximum du prix sans le dépasser, ainsi que le restant, à payer par un autre moyen.</description>
-    </item>
-    
-    <item>
       <title>[Dingoo] DinguxCommander</title>
       <link>https://tardigrade-nx.github.io/2011/dinguxcommander/</link>
       <pubDate>Sat, 05 Feb 2011 00:00:00 +0200</pubDate>
