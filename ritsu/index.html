@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Un carnet photographique à la rencontre des animaux. Découvrez les photographies de chats, cormorans, flamants, grèbes et tortues.">
+  <title>Ritsu Photos</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="albums.js" defer></script>
+  <script src="gallery.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#galerie">Aller aux photographies</a>
+  <header class="header">
+    <a class="brand" href="./" aria-label="Ritsu Photos, accueil">ritsu<span>photos</span><i aria-hidden="true">✳</i></a>
+    <nav aria-label="Navigation principale"><a href="#galerie">Les photographies</a></nav>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="intro"><p class="eyebrow">CARNET PHOTOGRAPHIQUE · FAUNE</p><h1 id="hero-title" class="intro-story">Depuis mes dix ans, je prends en photo les animaux que je croise, à l'aide d'un appareil photo que mes parents m'ont offert, voici mes préférées.</h1><a class="explore" href="#galerie">Explorer les photographies <span aria-hidden="true">↗</span></a><div class="hero-note"><span class="dot" aria-hidden="true"></span> <span id="collection-count"></span></div></div>
+      <figure class="cover"><img src="photos/Flamants/IMG_0535.JPG" alt="Un flamant rose fait sa toilette dans l’eau" width="1280" height="960" fetchpriority="high"><figcaption><span>01 / À LA UNE</span><span>Flamants <span aria-hidden="true">↗</span></span></figcaption></figure>
+    </section>
+    <section id="galerie" class="collection" aria-labelledby="gallery-title">
+      <div class="section-heading"><h2 id="gallery-title" class="eyebrow">LES RENCONTRES</h2></div>
+      <div class="toolbar"><div id="filters" class="filters" role="group" aria-label="Filtrer par famille d’animaux"></div><p id="count" role="status" aria-live="polite"></p></div>
+      <div id="photos" class="grid"></div>
+      <noscript><p>Activez JavaScript pour afficher la galerie et ses filtres. Vous pouvez aussi parcourir les <a href="photos/">fichiers photographiques</a>.</p></noscript>
+    </section>
+  </main>
+  <footer><a class="brand" href="./">ritsu<span>photos</span></a><a href="#">Retour en haut ↑</a></footer>
+  <dialog id="viewer" aria-labelledby="viewer-title"><div class="viewer-bar"><p id="viewer-title"></p><button id="close" aria-label="Fermer la photographie">Fermer ✕</button></div><img id="full-photo" alt=""><div class="viewer-bottom"><button id="previous" aria-label="Photographie précédente">← Précédente</button><span id="position" aria-live="polite"></span><button id="next" aria-label="Photographie suivante">Suivante →</button></div></dialog>
+</body>
+</html>
