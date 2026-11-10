@@ -181,5 +181,47 @@ const albums = [
     "files": [
       "IMG_0657.JPG"
     ]
+  },
+  {
+    "folder": "Aigrettes",
+    "label": "Aigrettes",
+    "files": [
+      "1 Aigrette garzette (Egretta garzetta).JPG",
+      "2 Aigrette garzette (Egretta garzetta).JPG",
+      "3 Aigrette garzette (Egretta garzetta).JPG",
+      "4 Aigrette garzette (Egretta garzetta).JPG"
+    ]
+  },
+  {
+    "folder": "Insectes et arachnide",
+    "label": "Insectes et arachnide",
+    "files": [
+      "Bourdon terrestre (Bombus terrestris).JPG",
+      "chenille de Bombyx de la ronce (Macrothylacia rubi).JPG"
+    ]
+  },
+  {
+    "folder": "Mollusques et crustacés",
+    "label": "Mollusques et crustacés",
+    "files": [
+      "Ecrevisse de Louisiane.JPG"
+    ]
+  },
+  {
+    "folder": "Mouettes",
+    "label": "Mouettes",
+    "files": [
+      "1 Mouette rieuse (Chroicocephalus ridibundus).JPG",
+      "2 Mouette rieuse (Chroicocephalus ridibundus).JPG",
+      "3 Mouette rieuse (Chroicocephalus ridibundus).JPG"
+    ]
+  },
+  {
+    "folder": "Végétaux et champignons",
+    "label": "Végétaux et champignons",
+    "files": [
+      "Eglantine (Rosa canina).JPG",
+      "Millepertuis perforé (Hypericum perforatum).JPG"
+    ]
   }
 ];
